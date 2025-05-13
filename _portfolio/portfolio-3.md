@@ -2,9 +2,8 @@
 title: "My Amazing Project"
 excerpt: "A brief description of my professional project<br/><img src='/images/500x300.png'>"
 collection: portfolio
+permalink: /portfolio/amazing-project/
 ---
-
-# My Amazing Project
 
 ## Overview
 This is a sample project demonstrating how to add a new portfolio item. You can replace this with details about your real work.
